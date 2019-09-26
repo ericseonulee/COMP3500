@@ -1,2 +1,2 @@
 # COMP3500
-Introduction to Operating Systems
+Summer 2019
